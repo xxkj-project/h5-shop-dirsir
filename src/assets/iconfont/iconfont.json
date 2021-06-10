@@ -1,0 +1,79 @@
+{
+  "id": "2142387",
+  "name": "h5-dirsir-project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "辛鑫电商项目",
+  "glyphs": [
+    {
+      "icon_id": "1191001",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "731367",
+      "name": "回到顶部",
+      "font_class": "huidaodingbu1",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "765381",
+      "name": "我的",
+      "font_class": "my",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "766836",
+      "name": "右箭头",
+      "font_class": "rightarrow",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "1127398",
+      "name": "左箭头",
+      "font_class": "leftarrow",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1486817",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1487417",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1494638",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1688480",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "1800699",
+      "name": "标签",
+      "font_class": "tag",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}
